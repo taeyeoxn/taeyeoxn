@@ -36,5 +36,3 @@
 - 2024.03. ~
 - 웹서비스 개발 연합동아리
 - 12th Design Part
-
-![footer](https://capsule-render.vercel.app/api?type=Waving&height=100&section=footer&color=timeGradient&animation=fadeIn)
