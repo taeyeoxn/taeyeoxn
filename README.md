@@ -12,12 +12,12 @@
     </a>
 </div>
 
-## 💻 DEV's log 💻
+<!--## 💻 DEV's log 💻
 <div>
     <a href="https://taeyeoxn.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-%23000000?style=for-the-badge&logo=tistory&logoColor=white">
     </a>
-</div>
+</div>-->
 
 ## 🔨 Once I've used 🔨
 <div>
