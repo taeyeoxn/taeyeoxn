@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome%20to%20taeyeon's%20Github!%20👋&fontColor=d5e6f5&color=timeGradient&animation=fadeIn&fontSize=40&fontAlignY=40)
+<!--![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome%20to%20taeyeon's%20Github!%20👋&fontColor=d5e6f5&color=timeGradient&animation=fadeIn&fontSize=40&fontAlignY=40)
 ----
 ![taeyeoxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeoxn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeoxn&layout=compact&theme=radical)
@@ -15,7 +15,7 @@
     <a href="https://taeyeoxn.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-%23000000?style=for-the-badge&logo=tistory&logoColor=white">
     </a>
-</div>-->
+</div>
 
 ## 🔨 Once I've used 🔨
 <div>
